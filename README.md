@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! I'm SJ ![](bt21.gif)
 
-<!--
-**rsjaz/rsjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **ABOUT ME** :panda_face:
 
-Here are some ideas to get you started:
+:woman_technologist: I am a 3rd year IT student from Iloilo, Philippines. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: Currently doing my best to focus and learn from my online classes. 
+
+:computer: I like to watch anime movies and K-shows as a way to de-stress.
+
+<br>
+
+> :notes: Even when I fall and hurt myself. I keep running towards my dream :notes:
+
+-----------------------------------------------------
