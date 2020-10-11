@@ -1,6 +1,9 @@
-# Hi there! I'm SJ ![](bt21.gif)
+# Hi there! I'm SJ 
+
+![](bt21.gif) 
 
 ### **ABOUT ME** :panda_face:
+-----------------------------------------------------
 
 :woman_technologist: I am a 3rd year IT student from Iloilo, Philippines. 
 
@@ -10,6 +13,6 @@
 
 <br>
 
-> :notes: Even when I fall and hurt myself. I keep running towards my dream :notes:
+:notes: *Even when I fall and hurt myself. I keep running towards my dream* :notes:
 
 -----------------------------------------------------
