@@ -6,13 +6,11 @@
 ### **About me** :panda_face:
 -----------------------------------------------------
 
-:woman_technologist: I'm a 3rd year IT student from Iloilo, Philippines. 
+:woman_technologist: I'm an IT student from Iloilo, Philippines. 
 
 :books: Currently doing my best to focus and learn from my online classes. 
 
-:tv: I like to watch anime movies and K-shows as a way to de-stress.
-
-:computer: I'm not really good in programming but I always try my best in my studies.
+:computer: Exploring Flutter.
 
 <br>
 
